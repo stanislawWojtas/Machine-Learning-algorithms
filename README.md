@@ -20,7 +20,6 @@ Each Lecture/Lab focuses on a different topic related to Machine Learning.
 │   ├── Lecture5.ipynb  
 │   └── Lecture6.ipynb
 └── Labs/
-    ├── Lecture.ipynb
     ├── Lab1.ipynb
     ├── Lab2.ipynb
     ├── Lab3.ipynb
