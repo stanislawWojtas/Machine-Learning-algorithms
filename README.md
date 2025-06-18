@@ -25,7 +25,14 @@ Each Lecture/Lab focuses on a different topic related to Machine Learning.
     ├── Lab3.ipynb
     ├── Lab4.ipynb
     ├── Lab5.ipynb
-    └── Lab6.ipynb
+    ├── Lab6.ipynb
+    ├── Lab7.ipynb
+    ├── Lab8.ipynb
+    ├── Lab9.ipynb
+    ├── Lab10.ipynb
+    ├── Lab11.ipynb
+    ├── Lab12.ipynb
+    └── Lab13.ipynb
 </pre>
 
 ## 🛠️Tech stack
